@@ -50,6 +50,9 @@ def main():
        save_option = input("Would you like to save these usernames to a file? (yes/no): ").strip().lower()
        if save_option == "yes":
            save_username(usernames)  # Call save_username with the usernames list
+         print("THANK YOU FOR USING THE RANDOM USERNAME GENERATOR")
+       else:
+          print("THANK YOU FOR USING THE RANDOM USERNAME GENERATOR")
 
    # Call the main function
 
